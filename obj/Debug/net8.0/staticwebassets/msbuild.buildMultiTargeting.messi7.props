@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/messi7.props" />
+</Project>
